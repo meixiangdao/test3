@@ -1,0 +1,1 @@
+alert('haha, you are under attacking!');
